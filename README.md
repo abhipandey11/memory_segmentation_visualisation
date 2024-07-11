@@ -1,4 +1,4 @@
-# MEMORY_SEGMENTATION-VISUALISATION
+# MEMORY SEGMENTATION VISUALISATION
 It provides a graphical user interface(GUI) for visualizing memory segmentation in a system. Users can specify the size of the main memory and the segment's name and size to be allocated within that main memory. The tool attempts to allocate memory segments randomly while ensuring that segments do not overlap and fit within the memory constraints. It also provides a visualization of the memory compaction.
 
 ## REQUIREMENTS

@@ -7,8 +7,8 @@ It provides a graphical user interface(GUI) for visualizing memory segmentation 
 * **matplotlib** - for visualisation
 
 ## USAGE
-*Run the py file
-*Enter the main memory size and number of memory segments in the respective textboxes.
-*Enter segment info (name and size with space in between)in the format <segment_name segment_size>
-*Click on confirm to get the visualisation.
-*Click on allocate memory if you need to change the segment info.
+* Run the py file
+* Enter the main memory size and number of memory segments in the respective textboxes.
+* Enter segment info (name and size with space in between)in the format <segment_name segment_size>
+* Click on confirm to get the visualisation.
+* Click on allocate memory if you need to change the segment info.
